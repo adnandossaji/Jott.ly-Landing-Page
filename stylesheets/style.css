@@ -24,6 +24,7 @@ div#header {
 	header h1 {
 		margin:0;
 		display: inline;
+		float: left;
 	}
 	header nav {
 		display: inline;
