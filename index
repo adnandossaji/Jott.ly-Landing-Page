@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class='ie ie6' lang='en'> <![endif]-->
+<!--[if IE 7 ]> <html class='ie ie7' lang='en'> <![endif]-->
+<!--[if IE 8 ]> <html class='ie ie8' lang='en'> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]> <!--> <html lang='en'> <!-- <![endif]-->
+
+<head>
+
+	<!-- Meta Tags -->
+	<meta charset='utf-8'>
+	<title>Jott.ly - Share and collect with others!</title>
+	<meta name='description' content='Jott.ly is a web application that helps users collaborate content.'>
+	<meta name='author' content='Jott.ly'>
+	<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1'>
+
+	<!-- CSS -->
+	<link rel='stylesheet' href='stylesheets/base.css'>
+	<link rel='stylesheet' href='stylesheets/skeleton.css'>
+	<link rel='stylesheet' href='stylesheets/style.css'>
+	<link rel='stylesheet' href='stylesheets/layout.css'>
+	<link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:500,700' rel='stylesheet' type='text/css'>
+
+	<!--[if lt IE 9]>
+		<script src='http://html5shim.googlecode.com/svn/trunk/html5.js'></script>
+	<![endif]-->
+
+	<!-- Favicon -->
+	<link rel='shortcut icon' href='images/favicon.ico'>
+	<link rel='apple-touch-icon' href='images/icon.png'>
+	<link rel='apple-touch-icon' sizes='72x72' href='images/icon-72x72.png'>
+	<link rel='apple-touch-icon' sizes='114x114' href='images/icon-114x114.png'>
+
+</head>
+<body>
+	<!-- Header -->
+	<div id='header'>
+		<div class='container'>
+			<header class='sixteen columns'>
+				<h1 class='logo'>
+					<a href='#'><img src='images/logo.png'/></a>
+				</h1>
+				<nav>
+					<ul>
+						<li class="selected"><a href="#">Home</a></li>
+						<li><a href="#">About</a></li>
+						<li><a href="#">Contact</a></li>
+					</ul>
+				</nav>
+			</header>
+		</div>
+	</div>
+
+	<div id='marketing-header'>
+		<div class='container'>
+			<div id='marketing' class='ten columns offset-by-three'>
+				<h1>Share and collect with Jott.ly!</h1>
+				<h2>Collaborate information using our integrated web application.</h2>
+				<a href='#'><button type='submit'>Try us out!</button></a>
+			</div>
+			<div id='macdisplay' class='sixteen columns'>
+				<img src='images/macdisplay.png'/>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- Content One -->
+	<div id='content-one'>
+		<div class='container'>
+			<div class='four columns'>
+				<img src="images/q-symbol.png" />
+			</div>
+			<div class='twelve columns'>
+				<h2>What is Jott.ly?</h2>
+				<p>We are a web-based application that helps our users upload and download content online. With Jott.ly, you can have access to <em>information</em> from any device. Create and <em>share</em> documents, images, music, and other files with family and friends! For just a small monthly fee, small businesses can have entry to over <em>1TB</em> of space!</p>
+			</div>
+		</div>
+	</div>
+
+	<!-- Content Two -->
+	<div id='content-two'>
+		<div class='container'>
+			<div class='eight columns'>
+			<img src="images/testimonial_1.png" />
+			<h2>“My family has been using Jott.ly for over a year now! We share music and photos with ease! Jott.ly has helped me organize my childrens school work as well as my e-books that I have purchased online!”</h2>
+			<h3> -Mary Sue</h3>
+			</div>
+			<div class='eight columns'>
+			<img src="images/testimonial_2.png" />
+			<h2>“We have thousands of documents circulating everyday and Jott.ly keeps them safe. The application is accessible everywhere so my workers do not need to phone-in for information. It is all online!”</h2>
+			<h3> -John Doe</h3>
+			</div>
+		</div>
+	</div>
+
+	<!-- Content Three -->
+	<div id="content-three">
+		<div class="container">
+			<div class="ten columns">
+				<img src="images/browser-ui.png" />
+			</div>
+			<div class="six columns">
+				<h2>How does Jott.ly work?</h2>
+				<p>Our developers work hard on our user interfaces to help our clients easily integrate with our product. Our mission is to deliver the fastest online cloud. We are currently working on international servers so everyone can have access to Jott.ly!</p>
+				<h2>Who is Jott.ly for?</h2>
+				<p>Small business owners can use Jott.ly for filing documents. The cloud is best for on the go usage, especially for students. Collaborate with artists across the country! Share photos with loved ones! Jott.ly is for everyone!</p>
+			</div>
+		</div>
+	</div>
+
+	<!-- Content Four -->
+	<div id='content-four'>
+		<div class='container'>
+			<div class='ten columns offset-by-three'>
+				<h5>Give us a try?</h5>
+				<h6>Its free! Sign up for a life time supply of free online space! Just give us your email!</h6>
+				<form action=''>
+				  <input type='text' id='regularInput' />
+				  <a href='#'><button type='submit'>Try us out!</button></a>
+				</form>
+			</div>
+		</div>
+	</div>
+
+	<!-- Footer -->
+	<div id='footer'>
+		<div class='container'>
+			<div class='eight columns'>
+				<nav>
+					<ul>
+						<li><a href='#'>Home</a></li> |
+						<li><a href='#'>About</a></li> |
+						<li><a href='#'>Contact</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class='eight columns right'>
+				<p>&copy; 2014. Jott.ly. All Rights Reserved.</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
